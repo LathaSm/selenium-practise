@@ -1,0 +1,3 @@
+This is new file it needs to be added in Feature dashboard branch steps to be followed.
+git checkout feature-dashboard
+git merge feature-login
