@@ -2,3 +2,4 @@ This is new file it needs to be added in Feature dashboard branch steps to be fo
 git checkout feature-dashboard
 git merge feature-login 
 git push origin feature-dashboard
+Latha Karthik
